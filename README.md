@@ -10,8 +10,6 @@
 
 Change all the details from one place: ``_data/data.yml``
 
-Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
-
 
 ## Credits
 
